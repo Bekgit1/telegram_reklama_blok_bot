@@ -1,0 +1,5 @@
+{
+  "uz": {"start": "Salom!", "stats": "Statistika"},
+  "ru": {"start": "Привет!", "stats": "Статистика"},
+  "en": {"start": "Hello!", "stats": "Stats"}
+}
